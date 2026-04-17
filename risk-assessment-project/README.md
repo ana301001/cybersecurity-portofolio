@@ -36,9 +36,6 @@ The system must remain:
 | A4       | Email System           | Internal communication |
 | A5       | IT Infrastructure     | Servers, network, endpoints |
 
-📸 Screenshot:
-Add simple table view here → `asset-register.png`
-
 
 ##  Step 2: Risk Identification
 
@@ -101,19 +98,14 @@ Build using:
 | R5 | Backup systems, redundancy, disaster recovery plan | Corrective |
 | R6 | Password policy enforcement, MFA | Preventive |
 
-📸 Screenshot:
-Save as `mitigation-table.png`
-
 
 ## Step 6: Key Risk Findings
 The most critical risks identified are:
-
 - Phishing attacks (R1)
 - Weak password practices (R6)
 - Unauthorized access (R3)
 
 These risks are primarily user-related, highlighting that human behavior is one of the biggest security weaknesses in an organization.
-
 
 ## Step 7: Recommendations
 To improve the overall security posture:
@@ -123,13 +115,11 @@ To improve the overall security posture:
 - Introduce role-based access control (RBAC)
 - Improve monitoring and logging systems
 
-
 ## Key Takeaways
 - Risk management is about prioritization, not just detection
 - Human behavior is a major security risk factor
 - Technical controls must be combined with awareness and policy
 - Structured thinking is essential in GRC roles
-
 
 ##  Future Improvements
 - Align with ISO 27001 framework
