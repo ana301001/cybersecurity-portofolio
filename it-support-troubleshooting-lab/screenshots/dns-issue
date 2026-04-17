@@ -1,0 +1,20 @@
+Ping Test – google.com
+
+Reply from 172.217.21.238:
+Bytes=32 time=23ms TTL=115
+Bytes=32 time=98ms TTL=115
+Bytes=32 time=30ms TTL=115
+Bytes=32 time=30ms TTL=115
+
+Ping Statistics:
+Sent = 4, Received = 4, Lost = 0 (0% loss)
+Average latency = 45ms
+
+
+DNS Lookup – google.com
+
+Server: dns.google (8.8.8.8)
+
+Name: google.com
+IPv4: 192.178.24.174
+IPv6: 2a00:1450:4017:819::200e
