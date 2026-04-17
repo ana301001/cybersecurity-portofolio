@@ -79,13 +79,6 @@ Place risks like this:
 - R2, R3, R4, R6 → High zone
 - R5 → Medium zone
 
-Screenshot:
-Save as `risk-matrix.png`
-
-Build using:
-- :contentReference[oaicite:0]{index=0} or  
-- :contentReference[oaicite:1]{index=1}  
-
 
 ## Step 5: Mitigation Strategies
 
